@@ -7,7 +7,7 @@ sanic==19.6.2
 kubernetes-asyncio==9.1.0
 ocular==0.1.6
 polyaxon-dockerizer==0.0.9
-polyaxon-k8s==0.4.7
+polyaxon-k8s==0.4.8
 polyaxon-gpustat==0.3.4
 polyaxon-nginx==0.5.3
 polystores==0.2.4
